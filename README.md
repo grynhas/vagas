@@ -226,17 +226,6 @@ Tempo integral
 
 
 # Vagas Back-End Junior
-Pessoa Desenvolvedora Back-end Júnior
-Empresa
-Florianópolis, SC
-via GeekHunter
-há 16 horas
-Tempo integral
-
-| [LINK 1](https://www.geekhunter.com.br/vaga/pessoa-desenvolvedora-back-end-junior?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-back-end-j%C3%BAnior-at-geekhunter-3223615573?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
 Desenvolvedor Back-End Júnior
 Grupo DSRH
 Rio de Janeiro, RJ
@@ -256,18 +245,6 @@ Tempo integral
 | [LINK 1](https://www.catho.com.br/vagas/desenvolvedor-backend-junior-home-office/20909523/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor Back-end
-Join Tecnologia
-Brasília, DF
-via BeBee
-há 2 dias
-Tempo integral
-
-| [LINK 1](https://br.bebee.com/job/20220814-12b32b39c06d009dcb24f2d8c0d9b14a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.linkedin.com/jobs/view/desenvolvedor-back-end-at-join-tecnologia-3223464515?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.talent.com/view?id=dbb22e6e9240&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
 Desenvolvedor(a) Back-end junior (Remoto)
 GeekHunter
 São Paulo, Svia Talent.com
@@ -276,6 +253,26 @@ Tempo integral
 
 | [LINK 1](https://br.talent.com/view?id=d66b5fd84ca9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 2](https://www.jobilize.com/job/br-s-o-paulo-desenvolvedor-a-back-end-junior-remoto-geekhunter-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor(a) Back-end Java júnior (remoto)
+GeekHunter
+Brasil
+via Adzuna
+há 1 dia
+Tempo integral
+
+| [LINK 1](https://www.adzuna.com.br/details/3403762784?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor Back End Junior
+CACTTUS DIGITAL STUDICampinas, SP
+via Melga
+há 3 dias
+Tempo integral
+
+| [LINK 1](https://br.melga.com/job/2022-08-13_cf3168330e844b345f69fb3f010dd818?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://www.infojobs.com.br/vaga-de-desenvolvedor-back-end-junior-remoto-pj-em-sao-paulo__8096492.aspx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor(a) Backend Junior - Node| ADamericanas s.a.
@@ -300,28 +297,15 @@ Tempo integral
 | [LINK 2](https://br.talent.com/view?id=4be86b27e6eb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor Back End Júnior - Joinville - SC
-Líder e Gestão
-Joinville - Pirabeiraba, Joinville - SC
-via Glassdoor
-há 5 dias
+Desenvolvedor Backend Júnior
+Caderno Nacional
+Fortaleza - Zone 1, Fortaleza - Cvia BeBee
+há 5 horas
 Tempo integral
 
-| [LINK 1](https://www.glassdoor.com.br/job-listing/desenvolvedor-back-end-j%C3%BAnior-joinville-sc-l%C3%ADder-e-gest%C3%A3o-JV_IC4157599_KO0,42_KE43,57.htm?jl=1008067539631&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.bebee.com/job/20220812-11dffbc7b9f8e38a95c1ba1af61027a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.jooble.org/jdp/-1341168123098239786/Desenvolvedor-Back-End-J%C3%BAnior-+-Joinville-+-SC-Joinville%2C-SC?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 4](https://br.workus.org/view/6610824.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 5](https://br.expertini.com/jobs/job/desenvolvedor-back-end-jnior-joinville-a1cab431abfc/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor Back End Jr
-Busco Jobs
-Indaiatuba, SP
-via Adzuna
-há 2 dias
-Tempo integral
-
-| [LINK 1](https://www.adzuna.com.br/details/3406657767?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 1](https://br.bebee.com/job/20220815-0e6a89a4f5aace8332bd364d1f31e777?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://www.adzuna.com.br/details/3146388120?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://jobzi.com/vaga/desenvolvedor-em-fortaleza-ce-cod-8708308-yPMx1Db4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor(a) Back-End .NET JUNIOWorking Minds
@@ -338,15 +322,14 @@ Tempo integral
 | [LINK 6](https://riovagasrj.net/vaga/desenvolvedora-back-end-net-junior-working-minds-rio-de-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Pessoa Desenvolvedora Back-end Júnior
-Empresa
-Florianópolis, SC
-via GeekHunter
-há 16 horas
+Desenvolvedor Junior Back end
+Clicksoft
+Brasil
+via BeBee
+há 5 horas
 Tempo integral
 
-| [LINK 1](https://www.geekhunter.com.br/vaga/pessoa-desenvolvedora-back-end-junior?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-back-end-j%C3%BAnior-at-geekhunter-3223615573?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 1](https://br.bebee.com/job/20220815-4453e2771b424cc9ae8747cd670a5758?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Back-End Júnior
@@ -368,18 +351,6 @@ Tempo integral
 | [LINK 1](https://www.catho.com.br/vagas/desenvolvedor-backend-junior-home-office/20909523/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor Back-end
-Join Tecnologia
-Brasília, DF
-via BeBee
-há 2 dias
-Tempo integral
-
-| [LINK 1](https://br.bebee.com/job/20220814-12b32b39c06d009dcb24f2d8c0d9b14a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.linkedin.com/jobs/view/desenvolvedor-back-end-at-join-tecnologia-3223464515?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.talent.com/view?id=dbb22e6e9240&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
 Desenvolvedor(a) Back-end junior (Remoto)
 GeekHunter
 São Paulo, Svia Talent.com
@@ -388,6 +359,26 @@ Tempo integral
 
 | [LINK 1](https://br.talent.com/view?id=d66b5fd84ca9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 2](https://www.jobilize.com/job/br-s-o-paulo-desenvolvedor-a-back-end-junior-remoto-geekhunter-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor(a) Back-end Java júnior (remoto)
+GeekHunter
+Brasil
+via Adzuna
+há 1 dia
+Tempo integral
+
+| [LINK 1](https://www.adzuna.com.br/details/3403762784?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor Back End Junior
+CACTTUS DIGITAL STUDICampinas, SP
+via Melga
+há 3 dias
+Tempo integral
+
+| [LINK 1](https://br.melga.com/job/2022-08-13_cf3168330e844b345f69fb3f010dd818?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://www.infojobs.com.br/vaga-de-desenvolvedor-back-end-junior-remoto-pj-em-sao-paulo__8096492.aspx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor(a) Backend Junior - Node| ADamericanas s.a.
@@ -412,28 +403,15 @@ Tempo integral
 | [LINK 2](https://br.talent.com/view?id=4be86b27e6eb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor Back End Júnior - Joinville - SC
-Líder e Gestão
-Joinville - Pirabeiraba, Joinville - SC
-via Glassdoor
-há 5 dias
+Desenvolvedor Backend Júnior
+Caderno Nacional
+Fortaleza - Zone 1, Fortaleza - Cvia BeBee
+há 5 horas
 Tempo integral
 
-| [LINK 1](https://www.glassdoor.com.br/job-listing/desenvolvedor-back-end-j%C3%BAnior-joinville-sc-l%C3%ADder-e-gest%C3%A3o-JV_IC4157599_KO0,42_KE43,57.htm?jl=1008067539631&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.bebee.com/job/20220812-11dffbc7b9f8e38a95c1ba1af61027a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.jooble.org/jdp/-1341168123098239786/Desenvolvedor-Back-End-J%C3%BAnior-+-Joinville-+-SC-Joinville%2C-SC?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 4](https://br.workus.org/view/6610824.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 5](https://br.expertini.com/jobs/job/desenvolvedor-back-end-jnior-joinville-a1cab431abfc/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor Back End Jr
-Busco Jobs
-Indaiatuba, SP
-via Adzuna
-há 2 dias
-Tempo integral
-
-| [LINK 1](https://www.adzuna.com.br/details/3406657767?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 1](https://br.bebee.com/job/20220815-0e6a89a4f5aace8332bd364d1f31e777?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://www.adzuna.com.br/details/3146388120?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://jobzi.com/vaga/desenvolvedor-em-fortaleza-ce-cod-8708308-yPMx1Db4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor(a) Back-End .NET JUNIOWorking Minds
@@ -448,6 +426,16 @@ Tempo integral
 | [LINK 4](https://rjempregos.net/vagasrio/desenvolvedora-back-end-net-jr-workingminds-home-office/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 5](https://rjvagas.net/jobs/desenvolvedora-back-end-net-jr-workingminds-home-office-97978/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 6](https://riovagasrj.net/vaga/desenvolvedora-back-end-net-junior-working-minds-rio-de-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor Junior Back end
+Clicksoft
+Brasil
+via BeBee
+há 5 horas
+Tempo integral
+
+| [LINK 1](https://br.bebee.com/job/20220815-4453e2771b424cc9ae8747cd670a5758?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 # Vagas Full Stack Junior
@@ -673,5 +661,5 @@ Tempo integral
 | [LINK 1](https://br.bebee.com/job/20220815-8d25fdabdc0ab9289900233ad8298a50?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-ultima atualização em Mon Aug 15 2022 23:40:00 GMT-0300 (Horário Padrão de Brasília)
+ultima atualização em Mon Aug 15 2022 23:42:00 GMT-0300 (Horário Padrão de Brasília)
 
