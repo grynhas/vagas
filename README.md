@@ -245,6 +245,16 @@ Tempo integral
 | [LINK 1](https://www.catho.com.br/vagas/desenvolvedor-backend-junior-home-office/20909523/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
+Desenvolvedor(a) Back-end Júnior a Pleno C#
+GeekHunter
+Brasil
+via Adzuna
+há 2 horas
+Tempo integral
+
+| [LINK 1](https://www.adzuna.com.br/details/3406673806?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
 Desenvolvedor(a) Back-end junior (Remoto)
 GeekHunter
 São Paulo, Svia Talent.com
@@ -253,16 +263,6 @@ Tempo integral
 
 | [LINK 1](https://br.talent.com/view?id=d66b5fd84ca9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 2](https://www.jobilize.com/job/br-s-o-paulo-desenvolvedor-a-back-end-junior-remoto-geekhunter-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor(a) Back-end Java júnior (remoto)
-GeekHunter
-Brasil
-via Adzuna
-há 1 dia
-Tempo integral
-
-| [LINK 1](https://www.adzuna.com.br/details/3403762784?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Back End Junior
@@ -283,6 +283,16 @@ Trabalho de casa
 Tempo integral
 
 | [LINK 1](https://br.linkedin.com/jobs/view/desenvolvedor-a-backend-junior-node-ads-at-americanas-s-a-3223306695?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor(a) Back-end Java júnior (remoto)
+GeekHunter
+Brasil
+via Adzuna
+há 1 dia
+Tempo integral
+
+| [LINK 1](https://www.adzuna.com.br/details/3403762784?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor BackEnd Java/Scala/Spark
@@ -320,16 +330,6 @@ Tempo integral
 | [LINK 4](https://rjempregos.net/vagasrio/desenvolvedora-back-end-net-jr-workingminds-home-office/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 5](https://rjvagas.net/jobs/desenvolvedora-back-end-net-jr-workingminds-home-office-97978/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 6](https://riovagasrj.net/vaga/desenvolvedora-back-end-net-junior-working-minds-rio-de-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor Junior Back end
-Clicksoft
-Brasil
-via BeBee
-há 5 horas
-Tempo integral
-
-| [LINK 1](https://br.bebee.com/job/20220815-4453e2771b424cc9ae8747cd670a5758?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Back-End Júnior
@@ -351,6 +351,16 @@ Tempo integral
 | [LINK 1](https://www.catho.com.br/vagas/desenvolvedor-backend-junior-home-office/20909523/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
+Desenvolvedor(a) Back-end Júnior a Pleno C#
+GeekHunter
+Brasil
+via Adzuna
+há 2 horas
+Tempo integral
+
+| [LINK 1](https://www.adzuna.com.br/details/3406673806?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
 Desenvolvedor(a) Back-end junior (Remoto)
 GeekHunter
 São Paulo, Svia Talent.com
@@ -359,16 +369,6 @@ Tempo integral
 
 | [LINK 1](https://br.talent.com/view?id=d66b5fd84ca9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 2](https://www.jobilize.com/job/br-s-o-paulo-desenvolvedor-a-back-end-junior-remoto-geekhunter-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor(a) Back-end Java júnior (remoto)
-GeekHunter
-Brasil
-via Adzuna
-há 1 dia
-Tempo integral
-
-| [LINK 1](https://www.adzuna.com.br/details/3403762784?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Back End Junior
@@ -389,6 +389,16 @@ Trabalho de casa
 Tempo integral
 
 | [LINK 1](https://br.linkedin.com/jobs/view/desenvolvedor-a-backend-junior-node-ads-at-americanas-s-a-3223306695?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor(a) Back-end Java júnior (remoto)
+GeekHunter
+Brasil
+via Adzuna
+há 1 dia
+Tempo integral
+
+| [LINK 1](https://www.adzuna.com.br/details/3403762784?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor BackEnd Java/Scala/Spark
@@ -426,16 +436,6 @@ Tempo integral
 | [LINK 4](https://rjempregos.net/vagasrio/desenvolvedora-back-end-net-jr-workingminds-home-office/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 5](https://rjvagas.net/jobs/desenvolvedora-back-end-net-jr-workingminds-home-office-97978/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 6](https://riovagasrj.net/vaga/desenvolvedora-back-end-net-junior-working-minds-rio-de-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor Junior Back end
-Clicksoft
-Brasil
-via BeBee
-há 5 horas
-Tempo integral
-
-| [LINK 1](https://br.bebee.com/job/20220815-4453e2771b424cc9ae8747cd670a5758?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 # Vagas Full Stack Junior
@@ -661,5 +661,5 @@ Tempo integral
 | [LINK 1](https://br.bebee.com/job/20220815-8d25fdabdc0ab9289900233ad8298a50?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-ultima atualização em Mon Aug 15 2022 23:46:00 GMT-0300 (Horário Padrão de Brasília)
+ultima atualização em Mon Aug 15 2022 23:48:00 GMT-0300 (Horário Padrão de Brasília)
 
