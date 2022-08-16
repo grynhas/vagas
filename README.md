@@ -661,5 +661,5 @@ Tempo integral
 | [LINK 1](https://br.bebee.com/job/20220815-8d25fdabdc0ab9289900233ad8298a50?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-ultima atualização em Mon Aug 15 2022 23:44:00 GMT-0300 (Horário Padrão de Brasília)
+ultima atualização em Mon Aug 15 2022 23:46:00 GMT-0300 (Horário Padrão de Brasília)
 
