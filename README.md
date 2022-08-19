@@ -18,17 +18,30 @@ Tempo integral
 | [LINK 1](https://br.bebee.com/job/20220815-fc8b6496272d4a4c5ada9fb8a2b6b76d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor de front-end
-Afilio
-Rio de Janeiro, Rvia Empregos Trabajo.org
-há 10 horas
+Desenvolvedor Front-end Júnior
+Prolins It Solution
+Fortaleza - Zone 1, Fortaleza - Cvia Empregos Trabajo.org
+há 2 dias
 Tempo integral
 
-| [LINK 1](https://br.trabajo.org/emprego-1394-20220818-5f28b7235c42ce012d7875be6c860d81?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.linkedin.com/jobs/view/desenvolvedor-de-front-end-at-afilio-3213220855?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.talent.com/view?id=98cd8a60664a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 4](https://br.bebee.com/job/20220818-7ff15a4c6c8b871e5e07ef4fec830429?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 5](https://br.whatjobs.com/emprego-para-Desenvolvedor-front-end-em-Rio-de-Janeiro-coop118322557?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 1](https://br.trabajo.org/emprego-1259-20220817-88430fe556c83e23e5d3cbc030e79945?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.linkedin.com/jobs/view/desenvolvedor-front-end-j%C3%BAnior-prolins-at-prolins-it-solution-3209709695?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://www.jobsbrasil.com.br/job/prolins-it-solution/18980-desenvolvedor-front-end-junior-prolins?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 4](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-front-end-junior-prolins-366638837?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 5](https://br.melga.com/job/2022-08-18_a135315a1b7f31f4854462bcc402ddba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor de front-end
+Afilio
+Rio de Janeiro, RJ
+via Talent.com
+há 1 dia
+Tempo integral
+
+| [LINK 1](https://br.talent.com/view?id=98cd8a60664a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.jobrapido.com/jobpreview/133291670?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-de-front-end-367397095?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 4](https://br.hacendo.com/vaga/195525105/desenvolvedor-front-end-rio-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Frontend Developer junior
@@ -52,17 +65,25 @@ Tempo integral
 | [LINK 1](https://www.glassdoor.com.br/job-listing/desenvolvedor-de-frontend-j%C3%BAnior-v%C3%A9rtice-consultoria-brazil-JV_IC2402386_KO0,32_KE33,59.htm?jl=1008078441568&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor Front-end Júnior
-Prolins It Solution
-Fortaleza - Zone 1, Fortaleza - Cvia Empregos Trabajo.org
+Desenvolvedor front-end júnior
+Nasajon
+Rio de Janeiro, Rvia Empregos Trabajo.org
 há 2 dias
 Tempo integral
 
-| [LINK 1](https://br.trabajo.org/emprego-1259-20220817-88430fe556c83e23e5d3cbc030e79945?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.linkedin.com/jobs/view/desenvolvedor-front-end-j%C3%BAnior-prolins-at-prolins-it-solution-3209709695?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://www.jobsbrasil.com.br/job/prolins-it-solution/18980-desenvolvedor-front-end-junior-prolins?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 4](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-front-end-junior-prolins-366638837?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 5](https://br.melga.com/job/2022-08-18_a135315a1b7f31f4854462bcc402ddba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 1](https://br.trabajo.org/emprego-1259-20220817-1df8d70c31228dc38d019ea714efc1ad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.jobrapido.com/jobpreview/127633003?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.jooble.org/jdp/-7882764320547512892/Desenvolvedor-front+end-j%C3%BAnior-Rio-de-Janeiro%2C-RJ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor de Frontend Júnior – Vertex – Rio de Janeiro
+Vertex
+Rio de Janeiro, Rvia Rio Vagas
+há 12 horas
+Tempo integral
+
+| [LINK 1](https://vagasrio.com/job/desenvolvedor-de-frontend-junior-vertex-rio-de-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.linkedin.com/jobs/view/desenvolvedor-de-frontend-j%C3%BAnior-at-vertex-3221435870?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Back End Jr.
@@ -77,27 +98,6 @@ Tempo integral
 | [LINK 3](https://br.jobrapido.com/jobpreview/128392295?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 4](https://br.workus.org/view/6204374.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 5](https://br.whatjobs.com/emprego-para-Desenvolvedor-Back-End-em-Bras%C3%ADlia-coop116072408?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor de Frontend Júnior – Vertex – Rio de Janeiro
-Vertex
-Rio de Janeiro, Rvia Rio Vagas
-há 10 horas
-Tempo integral
-
-| [LINK 1](https://vagasrio.com/job/desenvolvedor-de-frontend-junior-vertex-rio-de-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.linkedin.com/jobs/view/desenvolvedor-de-frontend-j%C3%BAnior-at-vertex-3221435870?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor front-end júnior
-Nasajon
-Rio de Janeiro, Rvia Empregos Trabajo.org
-há 2 dias
-Tempo integral
-
-| [LINK 1](https://br.trabajo.org/emprego-1259-20220817-1df8d70c31228dc38d019ea714efc1ad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.jobrapido.com/jobpreview/127633003?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.jooble.org/jdp/-7882764320547512892/Desenvolvedor-front+end-j%C3%BAnior-Rio-de-Janeiro%2C-RJ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Front-End Junior
@@ -130,17 +130,30 @@ Tempo integral
 | [LINK 1](https://br.bebee.com/job/20220815-fc8b6496272d4a4c5ada9fb8a2b6b76d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor de front-end
-Afilio
-Rio de Janeiro, Rvia Empregos Trabajo.org
-há 10 horas
+Desenvolvedor Front-end Júnior
+Prolins It Solution
+Fortaleza - Zone 1, Fortaleza - Cvia Empregos Trabajo.org
+há 2 dias
 Tempo integral
 
-| [LINK 1](https://br.trabajo.org/emprego-1394-20220818-5f28b7235c42ce012d7875be6c860d81?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.linkedin.com/jobs/view/desenvolvedor-de-front-end-at-afilio-3213220855?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.talent.com/view?id=98cd8a60664a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 4](https://br.bebee.com/job/20220818-7ff15a4c6c8b871e5e07ef4fec830429?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 5](https://br.whatjobs.com/emprego-para-Desenvolvedor-front-end-em-Rio-de-Janeiro-coop118322557?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 1](https://br.trabajo.org/emprego-1259-20220817-88430fe556c83e23e5d3cbc030e79945?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.linkedin.com/jobs/view/desenvolvedor-front-end-j%C3%BAnior-prolins-at-prolins-it-solution-3209709695?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://www.jobsbrasil.com.br/job/prolins-it-solution/18980-desenvolvedor-front-end-junior-prolins?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 4](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-front-end-junior-prolins-366638837?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 5](https://br.melga.com/job/2022-08-18_a135315a1b7f31f4854462bcc402ddba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor de front-end
+Afilio
+Rio de Janeiro, RJ
+via Talent.com
+há 1 dia
+Tempo integral
+
+| [LINK 1](https://br.talent.com/view?id=98cd8a60664a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.jobrapido.com/jobpreview/133291670?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-de-front-end-367397095?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 4](https://br.hacendo.com/vaga/195525105/desenvolvedor-front-end-rio-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Frontend Developer junior
@@ -164,17 +177,25 @@ Tempo integral
 | [LINK 1](https://www.glassdoor.com.br/job-listing/desenvolvedor-de-frontend-j%C3%BAnior-v%C3%A9rtice-consultoria-brazil-JV_IC2402386_KO0,32_KE33,59.htm?jl=1008078441568&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor Front-end Júnior
-Prolins It Solution
-Fortaleza - Zone 1, Fortaleza - Cvia Empregos Trabajo.org
+Desenvolvedor front-end júnior
+Nasajon
+Rio de Janeiro, Rvia Empregos Trabajo.org
 há 2 dias
 Tempo integral
 
-| [LINK 1](https://br.trabajo.org/emprego-1259-20220817-88430fe556c83e23e5d3cbc030e79945?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.linkedin.com/jobs/view/desenvolvedor-front-end-j%C3%BAnior-prolins-at-prolins-it-solution-3209709695?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://www.jobsbrasil.com.br/job/prolins-it-solution/18980-desenvolvedor-front-end-junior-prolins?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 4](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-front-end-junior-prolins-366638837?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 5](https://br.melga.com/job/2022-08-18_a135315a1b7f31f4854462bcc402ddba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 1](https://br.trabajo.org/emprego-1259-20220817-1df8d70c31228dc38d019ea714efc1ad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.jobrapido.com/jobpreview/127633003?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.jooble.org/jdp/-7882764320547512892/Desenvolvedor-front+end-j%C3%BAnior-Rio-de-Janeiro%2C-RJ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor de Frontend Júnior – Vertex – Rio de Janeiro
+Vertex
+Rio de Janeiro, Rvia Rio Vagas
+há 12 horas
+Tempo integral
+
+| [LINK 1](https://vagasrio.com/job/desenvolvedor-de-frontend-junior-vertex-rio-de-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.linkedin.com/jobs/view/desenvolvedor-de-frontend-j%C3%BAnior-at-vertex-3221435870?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Back End Jr.
@@ -189,27 +210,6 @@ Tempo integral
 | [LINK 3](https://br.jobrapido.com/jobpreview/128392295?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 4](https://br.workus.org/view/6204374.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 5](https://br.whatjobs.com/emprego-para-Desenvolvedor-Back-End-em-Bras%C3%ADlia-coop116072408?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor de Frontend Júnior – Vertex – Rio de Janeiro
-Vertex
-Rio de Janeiro, Rvia Rio Vagas
-há 10 horas
-Tempo integral
-
-| [LINK 1](https://vagasrio.com/job/desenvolvedor-de-frontend-junior-vertex-rio-de-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.linkedin.com/jobs/view/desenvolvedor-de-frontend-j%C3%BAnior-at-vertex-3221435870?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor front-end júnior
-Nasajon
-Rio de Janeiro, Rvia Empregos Trabajo.org
-há 2 dias
-Tempo integral
-
-| [LINK 1](https://br.trabajo.org/emprego-1259-20220817-1df8d70c31228dc38d019ea714efc1ad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.jobrapido.com/jobpreview/127633003?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.jooble.org/jdp/-7882764320547512892/Desenvolvedor-front+end-j%C3%BAnior-Rio-de-Janeiro%2C-RJ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Front-End Junior
@@ -238,6 +238,15 @@ Tempo integral
 | [LINK 5](https://br.whatjobs.com/emprego-para-Desenvolvedor-Back-End-em-Bras%C3%ADlia-coop116072408?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
+Desenvolvedor Back End Java Junior
+Adzuna BR Premium
+São Paulo, Svia Empregos Trabajo.org
+há 11 horas
+Tempo integral
+
+| [LINK 1](https://br.trabajo.org/emprego-165-20220818-a1d0ead55028fb9907acd8847c13e4f8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
 Desenvolvedor Back End Node Junior
 Iventis
 São Paulo, SP
@@ -263,11 +272,32 @@ Tempo integral
 Desenvolvedor Backend Junior
 Taking
 Barueri, Svia BeBee
-há 2 horas
+há 5 horas
 Tempo integral
 
 | [LINK 1](https://br.bebee.com/job/20220818-b356668631569dc42a86196666f99061?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 2](https://br.talent.com/view?id=cc7603ea9873&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor(a) Júnior Back-end
+Emprego
+Palhoça, SC
+via Adzuna
+há 1 dia
+Tempo integral
+
+| [LINK 1](https://www.adzuna.com.br/details/3413569145?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor Back End Junior
+CACTTUS DIGITAL STUDICampinas, SP
+via Melga
+há 6 dias
+Tempo integral
+
+| [LINK 1](https://br.melga.com/job/2022-08-13_cf3168330e844b345f69fb3f010dd818?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://www.infojobs.com.br/vaga-de-desenvolvedor-back-end-junior-remoto-pj-em-sao-paulo__8096492.aspx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.bebee.com/job/20220812-c924585eb0ec113178474e0d53037040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Backend Júnior
@@ -281,21 +311,11 @@ Tempo integral
 | [LINK 3](https://br.bebee.com/job/20220815-0e6a89a4f5aace8332bd364d1f31e777?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor(a) Back-end junior (Remoto)
-GeekHunter
-Brasil
-via Adzuna
-há 2 dias
-Tempo integral
-
-| [LINK 1](https://www.adzuna.com.br/details/3409805027?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
 Desenvolvedor BackEnd (Exclusiva para PCD)
 AVANADE
 São Paulo, SP
 via Catho
-há 36 minutos
+há 3 horas
 Tempo integral
 
 | [LINK 1](https://www.catho.com.br/vagas/desenvolvedor-backend-exclusiva-para-pcd/20937833/?origem_apply=busca-de-vagas&entrada_apply=direto&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -309,28 +329,6 @@ há 3 dias
 Tempo integral
 
 | [LINK 1](https://br.bebee.com/job/20220815-4453e2771b424cc9ae8747cd670a5758?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor Back End Junior
-Jobbol
-Salvador, BA
-via Jooble
-há 3 dias
-Tempo integral
-
-| [LINK 1](https://br.jooble.org/jdp/-7470620754449166104/Desenvolvedor-Back-End-Junior-Salvador%2C-BA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://www.tecnovagas.com/jobs/b425a2e8-4613-4ff4-bc43-888dd6384f9b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.jobrapido.com/jobpreview/132879896?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor Back End Junior
-Busco Jobs
-Brasil
-via Adzuna
-há 3 dias
-Tempo integral
-
-| [LINK 1](https://www.adzuna.com.br/details/3409801271?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Back End Jr.
@@ -347,6 +345,15 @@ Tempo integral
 | [LINK 5](https://br.whatjobs.com/emprego-para-Desenvolvedor-Back-End-em-Bras%C3%ADlia-coop116072408?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
+Desenvolvedor Back End Java Junior
+Adzuna BR Premium
+São Paulo, Svia Empregos Trabajo.org
+há 11 horas
+Tempo integral
+
+| [LINK 1](https://br.trabajo.org/emprego-165-20220818-a1d0ead55028fb9907acd8847c13e4f8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
 Desenvolvedor Back End Node Junior
 Iventis
 São Paulo, SP
@@ -372,11 +379,32 @@ Tempo integral
 Desenvolvedor Backend Junior
 Taking
 Barueri, Svia BeBee
-há 2 horas
+há 5 horas
 Tempo integral
 
 | [LINK 1](https://br.bebee.com/job/20220818-b356668631569dc42a86196666f99061?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 2](https://br.talent.com/view?id=cc7603ea9873&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor(a) Júnior Back-end
+Emprego
+Palhoça, SC
+via Adzuna
+há 1 dia
+Tempo integral
+
+| [LINK 1](https://www.adzuna.com.br/details/3413569145?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor Back End Junior
+CACTTUS DIGITAL STUDICampinas, SP
+via Melga
+há 6 dias
+Tempo integral
+
+| [LINK 1](https://br.melga.com/job/2022-08-13_cf3168330e844b345f69fb3f010dd818?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://www.infojobs.com.br/vaga-de-desenvolvedor-back-end-junior-remoto-pj-em-sao-paulo__8096492.aspx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.bebee.com/job/20220812-c924585eb0ec113178474e0d53037040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Backend Júnior
@@ -390,21 +418,11 @@ Tempo integral
 | [LINK 3](https://br.bebee.com/job/20220815-0e6a89a4f5aace8332bd364d1f31e777?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor(a) Back-end junior (Remoto)
-GeekHunter
-Brasil
-via Adzuna
-há 2 dias
-Tempo integral
-
-| [LINK 1](https://www.adzuna.com.br/details/3409805027?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
 Desenvolvedor BackEnd (Exclusiva para PCD)
 AVANADE
 São Paulo, SP
 via Catho
-há 36 minutos
+há 3 horas
 Tempo integral
 
 | [LINK 1](https://www.catho.com.br/vagas/desenvolvedor-backend-exclusiva-para-pcd/20937833/?origem_apply=busca-de-vagas&entrada_apply=direto&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -418,28 +436,6 @@ há 3 dias
 Tempo integral
 
 | [LINK 1](https://br.bebee.com/job/20220815-4453e2771b424cc9ae8747cd670a5758?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor Back End Junior
-Jobbol
-Salvador, BA
-via Jooble
-há 3 dias
-Tempo integral
-
-| [LINK 1](https://br.jooble.org/jdp/-7470620754449166104/Desenvolvedor-Back-End-Junior-Salvador%2C-BA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://www.tecnovagas.com/jobs/b425a2e8-4613-4ff4-bc43-888dd6384f9b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.jobrapido.com/jobpreview/132879896?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor Back End Junior
-Busco Jobs
-Brasil
-via Adzuna
-há 3 dias
-Tempo integral
-
-| [LINK 1](https://www.adzuna.com.br/details/3409801271?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 # Vagas Full Stack Junior
@@ -479,7 +475,7 @@ Desenvolvedor(a) Full-stack Júnior
 GeekHunter
 Brasil
 via Adzuna
-há 24 horas
+há 1 dia
 Tempo integral
 
 | [LINK 1](https://www.adzuna.com.br/details/3412938146?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -495,16 +491,6 @@ Tempo integral
 | [LINK 1](https://nerdin.com.br/vaga/51951?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor Java Full Stack
-FUNDAÇÃO EZUTE
-São Paulo, SP
-via Catho
-há 1 dia
-Tempo integral
-
-| [LINK 1](https://www.catho.com.br/vagas/desenvolvedor-java-full-stack/20927074/?origem_apply=vagas-similares&entrada_apply=direto&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
 Desenvolvedor FullStack Jr
 Fivelabs
 São José - Barreiros, São José - SC
@@ -518,7 +504,7 @@ Tempo integral
 Desenvolvedor Fullstack - Jr
 SimbioSão Paulo, SP
 via Linkedin
-há 6 horas
+há 8 horas
 Tempo integral
 
 | [LINK 1](https://br.linkedin.com/jobs/view/desenvolvedor-fullstack-jr-at-simbiox-3228249219?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -534,14 +520,28 @@ Tempo integral
 | [LINK 1](https://br.jobrapido.com/jobpreview/133230036?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor(a) FullStack Júnior
-Greenole - IoT Solutions
-São Paulo, Svia Empregos Trabajo.org
+DESENVOLVEDOR FULL STACK JÚNIOMRO
+Nova Lima, MG
+via Empregos Trabajo.org
+há 4 dias
+Tempo integral
+
+| [LINK 1](https://br.trabajo.org/emprego-1259-20220815-af98c57e959f689128a756f34e51df6a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.jobrapido.com/jobpreview/129600640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.jooble.org/jdp/4996070972810703783/DESENVOLVEDOR-FULL-STACK-J%C3%9ANIOR-Nova-Lima%2C-MG?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 4](https://br.bebee.com/job/20220818-924a833d1878cccd2e958d38c2834ead?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 5](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-full-stack-junior-365548713?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Analista Desenvolvedor(a) Fullstack Junior
+Talent Group
+São Paulo, SP
+via BeBee
 há 2 dias
 Tempo integral
 
-| [LINK 1](https://br.trabajo.org/emprego-1259-20220817-63268e7ab62fbb365546f02dd60c6865?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.jooble.org/jdp/7786708995688200129/Desenvolvedor(a)-FullStack-J%C3%BAnior-+-Full-Stack-%7C-J%C3%BAnior-S%C3%A3o-Paulo%2C-SP?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 1](https://br.bebee.com/job/20220816-e9a164b56e7dcaa244bf5499855dfcae?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://programathor.com.br/jobs/25187-analista-desenvolvedor-a-fullstack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor(a) Fullstack Júnior
@@ -580,7 +580,7 @@ Desenvolvedor(a) Full-stack Júnior
 GeekHunter
 Brasil
 via Adzuna
-há 24 horas
+há 1 dia
 Tempo integral
 
 | [LINK 1](https://www.adzuna.com.br/details/3412938146?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -596,16 +596,6 @@ Tempo integral
 | [LINK 1](https://nerdin.com.br/vaga/51951?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor Java Full Stack
-FUNDAÇÃO EZUTE
-São Paulo, SP
-via Catho
-há 1 dia
-Tempo integral
-
-| [LINK 1](https://www.catho.com.br/vagas/desenvolvedor-java-full-stack/20927074/?origem_apply=vagas-similares&entrada_apply=direto&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
 Desenvolvedor FullStack Jr
 Fivelabs
 São José - Barreiros, São José - SC
@@ -619,7 +609,7 @@ Tempo integral
 Desenvolvedor Fullstack - Jr
 SimbioSão Paulo, SP
 via Linkedin
-há 6 horas
+há 8 horas
 Tempo integral
 
 | [LINK 1](https://br.linkedin.com/jobs/view/desenvolvedor-fullstack-jr-at-simbiox-3228249219?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -635,15 +625,29 @@ Tempo integral
 | [LINK 1](https://br.jobrapido.com/jobpreview/133230036?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor(a) FullStack Júnior
-Greenole - IoT Solutions
-São Paulo, Svia Empregos Trabajo.org
+DESENVOLVEDOR FULL STACK JÚNIOMRO
+Nova Lima, MG
+via Empregos Trabajo.org
+há 4 dias
+Tempo integral
+
+| [LINK 1](https://br.trabajo.org/emprego-1259-20220815-af98c57e959f689128a756f34e51df6a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.jobrapido.com/jobpreview/129600640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.jooble.org/jdp/4996070972810703783/DESENVOLVEDOR-FULL-STACK-J%C3%9ANIOR-Nova-Lima%2C-MG?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 4](https://br.bebee.com/job/20220818-924a833d1878cccd2e958d38c2834ead?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 5](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-full-stack-junior-365548713?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Analista Desenvolvedor(a) Fullstack Junior
+Talent Group
+São Paulo, SP
+via BeBee
 há 2 dias
 Tempo integral
 
-| [LINK 1](https://br.trabajo.org/emprego-1259-20220817-63268e7ab62fbb365546f02dd60c6865?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.jooble.org/jdp/7786708995688200129/Desenvolvedor(a)-FullStack-J%C3%BAnior-+-Full-Stack-%7C-J%C3%BAnior-S%C3%A3o-Paulo%2C-SP?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 1](https://br.bebee.com/job/20220816-e9a164b56e7dcaa244bf5499855dfcae?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://programathor.com.br/jobs/25187-analista-desenvolvedor-a-fullstack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-ultima atualização em Thu Aug 18 2022 21:36:00 GMT-0300 (Horário Padrão de Brasília)
+ultima atualização em Thu Aug 18 2022 23:50:00 GMT-0300 (Brasilia Standard Time)
 
