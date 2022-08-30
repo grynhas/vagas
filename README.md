@@ -479,7 +479,7 @@ Desenvolvedor FullStack Junior ou Pleno
 Evoluir Recruiter
 Belo Horizonte - MG
 via Recrutei
-há 10 horas
+há 11 horas
 Tempo integral
 
 | [LINK 1](https://jobs.recrutei.com.br/evoluir-recruiter/vacancy/29977-desenvolvedor-fullstack-junior-ou-pleno?utm_source=jobrapido&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -514,8 +514,8 @@ há 6 dias
 Tempo integral
 
 | [LINK 1](https://br.trabajo.org/emprego-1259-20220825-b137e23656dcd8a26ae954614cb9c603?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.bebee.com/job/20220827-5df317d683d670bd3270e82c5c231d2e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.jobrapido.com/jobpreview/130312947?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.jobrapido.com/jobpreview/130312947?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.bebee.com/job/20220827-5df317d683d670bd3270e82c5c231d2e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Júnior
@@ -588,7 +588,7 @@ Desenvolvedor FullStack Junior ou Pleno
 Evoluir Recruiter
 Belo Horizonte - MG
 via Recrutei
-há 10 horas
+há 11 horas
 Tempo integral
 
 | [LINK 1](https://jobs.recrutei.com.br/evoluir-recruiter/vacancy/29977-desenvolvedor-fullstack-junior-ou-pleno?utm_source=jobrapido&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -623,8 +623,8 @@ há 6 dias
 Tempo integral
 
 | [LINK 1](https://br.trabajo.org/emprego-1259-20220825-b137e23656dcd8a26ae954614cb9c603?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.bebee.com/job/20220827-5df317d683d670bd3270e82c5c231d2e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.jobrapido.com/jobpreview/130312947?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.jobrapido.com/jobpreview/130312947?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.bebee.com/job/20220827-5df317d683d670bd3270e82c5c231d2e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Júnior
@@ -683,5 +683,5 @@ Tempo integral
 | [LINK 1](https://www.adzuna.com.br/details/3442647040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-ultima atualização em Tue Aug 30 2022 18:52:00 GMT-0300 (Brasilia Standard Time)
+ultima atualização em Tue Aug 30 2022 18:54:00 GMT-0300 (Brasilia Standard Time)
 
