@@ -2,7 +2,7 @@
 Vaga Desenvolvedor(a) Front-End Junior PCVagas PCD
 Curitiba, PR
 via Empregos Trabajo.org
-há 5 horas
+há 6 horas
 Tempo integral
 
 | [LINK 1](https://br.trabajo.org/emprego-1259-20220830-5f73b0b1708a4f9fe870c8012a53978a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -115,7 +115,7 @@ Tempo integral
 Vaga Desenvolvedor(a) Front-End Junior PCVagas PCD
 Curitiba, PR
 via Empregos Trabajo.org
-há 5 horas
+há 6 horas
 Tempo integral
 
 | [LINK 1](https://br.trabajo.org/emprego-1259-20220830-5f73b0b1708a4f9fe870c8012a53978a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -326,7 +326,7 @@ Desenvolvedor Back End Júnior
 Farisco RH
 Joinville - Pirabeiraba, Joinville - SC
 via BeBee
-há 12 horas
+há 13 horas
 Tempo integral
 
 | [LINK 1](https://br.bebee.com/job/20220830-9629ad3ae655eb45cd523d21838a9209?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -445,7 +445,7 @@ Desenvolvedor Back End Júnior
 Farisco RH
 Joinville - Pirabeiraba, Joinville - SC
 via BeBee
-há 12 horas
+há 13 horas
 Tempo integral
 
 | [LINK 1](https://br.bebee.com/job/20220830-9629ad3ae655eb45cd523d21838a9209?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -530,7 +530,7 @@ Tempo integral
 Desenvolvedor full stack junior ii
 STANDARD IT & GOMARA TECSão Paulo, SP
 via Empregos Trabajo.org
-há 18 horas
+há 19 horas
 Tempo integral
 
 | [LINK 1](https://br.trabajo.org/emprego-1298-20220830-1d12d5bf053dea326556d292ae5419e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -639,7 +639,7 @@ Tempo integral
 Desenvolvedor full stack junior ii
 STANDARD IT & GOMARA TECSão Paulo, SP
 via Empregos Trabajo.org
-há 18 horas
+há 19 horas
 Tempo integral
 
 | [LINK 1](https://br.trabajo.org/emprego-1298-20220830-1d12d5bf053dea326556d292ae5419e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -683,5 +683,5 @@ Tempo integral
 | [LINK 1](https://www.adzuna.com.br/details/3442647040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-ultima atualização em Tue Aug 30 2022 18:54:00 GMT-0300 (Brasilia Standard Time)
+ultima atualização em Tue Aug 30 2022 19:12:00 GMT-0300 (Horário Padrão de Brasília)
 
