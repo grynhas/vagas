@@ -76,6 +76,7 @@ Tempo integral
 
 | [LINK 1](https://br.talent.com/view?id=cb7e96d9a5e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 2](https://www.adzuna.com.br/details/3444305913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.hacendo.com/vaga/202203908/desenvolvedor-back-end-net-junior-rio-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Front-End Junior
@@ -188,6 +189,7 @@ Tempo integral
 
 | [LINK 1](https://br.talent.com/view?id=cb7e96d9a5e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 2](https://www.adzuna.com.br/details/3444305913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.hacendo.com/vaga/202203908/desenvolvedor-back-end-net-junior-rio-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Front-End Junior
@@ -681,5 +683,5 @@ Tempo integral
 | [LINK 1](https://www.adzuna.com.br/details/3442647040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-ultima atualização em Tue Aug 30 2022 18:36:00 GMT-0300 (Brasilia Standard Time)
+ultima atualização em Tue Aug 30 2022 18:38:00 GMT-0300 (Brasilia Standard Time)
 
