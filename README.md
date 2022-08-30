@@ -300,17 +300,6 @@ Tempo integral
 | [LINK 1](https://www.infojobs.com.br/vaga-de-desenvolvedor-bach-end-junior-em-rio-grande-do-sul__8319679.aspx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor Backend Junior
-Taking
-Qualquer lugar
-via Glassdoor
-há 5 dias
-Trabalho de casa
-Prestador de serviços
-
-| [LINK 1](https://www.glassdoor.com.br/job-listing/desenvolvedor-backend-junior-taking-JV_KO0,28_KE29,35.htm?jl=1008096633953&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
 Desenvolvedor Back End Jr
 Inovation IT
 Qualquer lugar
@@ -320,6 +309,17 @@ Trabalho de casa
 Tempo integral
 
 | [LINK 1](https://nerdin.com.br/vaga/52281?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor Backend Junior
+Taking
+Qualquer lugar
+via Glassdoor
+há 5 dias
+Trabalho de casa
+Prestador de serviços
+
+| [LINK 1](https://www.glassdoor.com.br/job-listing/desenvolvedor-backend-junior-taking-JV_KO0,28_KE29,35.htm?jl=1008096633953&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Back End Júnior
@@ -419,17 +419,6 @@ Tempo integral
 | [LINK 1](https://www.infojobs.com.br/vaga-de-desenvolvedor-bach-end-junior-em-rio-grande-do-sul__8319679.aspx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor Backend Junior
-Taking
-Qualquer lugar
-via Glassdoor
-há 5 dias
-Trabalho de casa
-Prestador de serviços
-
-| [LINK 1](https://www.glassdoor.com.br/job-listing/desenvolvedor-backend-junior-taking-JV_KO0,28_KE29,35.htm?jl=1008096633953&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
 Desenvolvedor Back End Jr
 Inovation IT
 Qualquer lugar
@@ -439,6 +428,17 @@ Trabalho de casa
 Tempo integral
 
 | [LINK 1](https://nerdin.com.br/vaga/52281?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor Backend Junior
+Taking
+Qualquer lugar
+via Glassdoor
+há 5 dias
+Trabalho de casa
+Prestador de serviços
+
+| [LINK 1](https://www.glassdoor.com.br/job-listing/desenvolvedor-backend-junior-taking-JV_KO0,28_KE29,35.htm?jl=1008096633953&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Back End Júnior
@@ -683,5 +683,5 @@ Tempo integral
 | [LINK 1](https://www.adzuna.com.br/details/3442647040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-ultima atualização em Tue Aug 30 2022 18:50:00 GMT-0300 (Brasilia Standard Time)
+ultima atualização em Tue Aug 30 2022 18:52:00 GMT-0300 (Brasilia Standard Time)
 
