@@ -71,7 +71,7 @@ Tempo integral
 Desenvolvedor Back-End .Net Júnior
 .add
 Rio de Janeiro, Rvia Talent.com
-há 21 horas
+há 22 horas
 Tempo integral
 
 | [LINK 1](https://br.talent.com/view?id=cb7e96d9a5e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -183,7 +183,7 @@ Tempo integral
 Desenvolvedor Back-End .Net Júnior
 .add
 Rio de Janeiro, Rvia Talent.com
-há 21 horas
+há 22 horas
 Tempo integral
 
 | [LINK 1](https://br.talent.com/view?id=cb7e96d9a5e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -227,7 +227,7 @@ Tempo integral
 Desenvolvedor Back-End .Net Júnior
 .add
 Rio de Janeiro, Rvia Talent.com
-há 21 horas
+há 22 horas
 Tempo integral
 
 | [LINK 1](https://br.talent.com/view?id=cb7e96d9a5e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -345,7 +345,7 @@ Tempo integral
 Desenvolvedor Back-End .Net Júnior
 .add
 Rio de Janeiro, Rvia Talent.com
-há 21 horas
+há 22 horas
 Tempo integral
 
 | [LINK 1](https://br.talent.com/view?id=cb7e96d9a5e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -517,7 +517,7 @@ Tempo integral
 Desenvolvedor Júnior
 TerraMagna
 São José dos Campos, Svia Talent.com
-há 21 horas
+há 22 horas
 Tempo integral
 
 | [LINK 1](https://br.talent.com/view?id=da24160b0282&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -626,7 +626,7 @@ Tempo integral
 Desenvolvedor Júnior
 TerraMagna
 São José dos Campos, Svia Talent.com
-há 21 horas
+há 22 horas
 Tempo integral
 
 | [LINK 1](https://br.talent.com/view?id=da24160b0282&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -679,5 +679,5 @@ Tempo integral
 | [LINK 1](https://www.adzuna.com.br/details/3442647040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-ultima atualização em Tue Aug 30 2022 18:28:00 GMT-0300 (Brasilia Standard Time)
+ultima atualização em Tue Aug 30 2022 18:30:00 GMT-0300 (Brasilia Standard Time)
 
