@@ -538,7 +538,6 @@ Tempo integral
 | [LINK 3](https://br.bebee.com/job/20220830-f6f88c85e1bbac1d8772dd84f3dccfd7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 4](https://br.jobrapido.com/jobpreview/135057160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 5](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-full-stack-junior-ii-368038074?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 6](https://br.melga.com/job/2022-08-30_da52aea79c1ca0f44f87ddf1292718f9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Full Stack (PHP)| Júnior
@@ -647,7 +646,6 @@ Tempo integral
 | [LINK 3](https://br.bebee.com/job/20220830-f6f88c85e1bbac1d8772dd84f3dccfd7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 4](https://br.jobrapido.com/jobpreview/135057160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 5](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-full-stack-junior-ii-368038074?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 6](https://br.melga.com/job/2022-08-30_da52aea79c1ca0f44f87ddf1292718f9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Full Stack (PHP)| Júnior
@@ -683,5 +681,5 @@ Tempo integral
 | [LINK 1](https://www.adzuna.com.br/details/3442647040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-ultima atualização em Tue Aug 30 2022 18:38:00 GMT-0300 (Brasilia Standard Time)
+ultima atualização em Tue Aug 30 2022 18:40:00 GMT-0300 (Brasilia Standard Time)
 
