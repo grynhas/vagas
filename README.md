@@ -30,7 +30,7 @@ Tempo integral
 desenvolvedor front end jr
 OEmprego
 Rio de Janeiro, Rvia Melga
-há 17 horas
+há 18 horas
 Tempo integral
 
 | [LINK 1](https://br.melga.com/job/2022-08-30_b0153c939da2ced55e57267683430486?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -143,7 +143,7 @@ Tempo integral
 desenvolvedor front end jr
 OEmprego
 Rio de Janeiro, Rvia Melga
-há 17 horas
+há 18 horas
 Tempo integral
 
 | [LINK 1](https://br.melga.com/job/2022-08-30_b0153c939da2ced55e57267683430486?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -683,5 +683,5 @@ Tempo integral
 | [LINK 1](https://www.adzuna.com.br/details/3442647040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-ultima atualização em Tue Aug 30 2022 18:48:00 GMT-0300 (Brasilia Standard Time)
+ultima atualização em Tue Aug 30 2022 18:50:00 GMT-0300 (Brasilia Standard Time)
 
