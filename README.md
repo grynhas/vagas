@@ -16,7 +16,7 @@ Desenvolvedor Front-End Junior
 Kindle
 Rio de Janeiro, RJ
 via BeBee
-há 14 horas
+há 15 horas
 Tempo integral
 
 | [LINK 1](https://br.bebee.com/job/20220830-4328ab44f8f4114c7c8746c4f30feacd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -128,7 +128,7 @@ Desenvolvedor Front-End Junior
 Kindle
 Rio de Janeiro, RJ
 via BeBee
-há 14 horas
+há 15 horas
 Tempo integral
 
 | [LINK 1](https://br.bebee.com/job/20220830-4328ab44f8f4114c7c8746c4f30feacd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -232,6 +232,7 @@ Tempo integral
 
 | [LINK 1](https://br.talent.com/view?id=cb7e96d9a5e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 2](https://www.adzuna.com.br/details/3444305913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.hacendo.com/vaga/202203908/desenvolvedor-back-end-net-junior-rio-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor BackEnd Junior - WordPress
@@ -256,6 +257,8 @@ há 1 dia
 Tempo integral
 
 | [LINK 1](https://br.trabajo.org/emprego-1259-20220829-f2d8f05660acac7f8404b02227c0cb0b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.bebee.com/job/20220829-c9dc8a1836fa9187f5e159477419a872?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.jooble.org/jdp/-2539734907564294756/Vaga-Desenvolvedor(a)-Back+end-Junior-PCD-Curitiba%2C-PR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Backend Junior
@@ -348,6 +351,7 @@ Tempo integral
 
 | [LINK 1](https://br.talent.com/view?id=cb7e96d9a5e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 2](https://www.adzuna.com.br/details/3444305913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.hacendo.com/vaga/202203908/desenvolvedor-back-end-net-junior-rio-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor BackEnd Junior - WordPress
@@ -677,5 +681,5 @@ Tempo integral
 | [LINK 1](https://www.adzuna.com.br/details/3442647040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-ultima atualização em Tue Aug 30 2022 18:34:00 GMT-0300 (Brasilia Standard Time)
+ultima atualização em Tue Aug 30 2022 18:36:00 GMT-0300 (Brasilia Standard Time)
 
