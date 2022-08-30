@@ -226,17 +226,6 @@ Tempo integral
 
 
 # Vagas Back-End Junior
-Desenvolvedor Back-End .Net Júnior
-.add
-Rio de Janeiro, Rvia Talent.com
-há 22 horas
-Tempo integral
-
-| [LINK 1](https://br.talent.com/view?id=cb7e96d9a5e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://www.adzuna.com.br/details/3444305913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.hacendo.com/vaga/202203908/desenvolvedor-back-end-net-junior-rio-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
 Desenvolvedor BackEnd Junior - WordPress
 GRUPO MASSCuritiba, PR
 via Catho
@@ -247,20 +236,21 @@ Tempo integral
 | [LINK 1](https://www.catho.com.br/vagas/desenvolvedor-backend-junior-wordpress/20954232/?origem_apply=busca-de-vagas&entrada_apply=direto&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 2](https://www.glassdoor.com.br/job-listing/desenvolvedor-backend-junior-wordpress-grupo-massa-JV_IC2387909_KO0,38_KE39,50.htm?jl=1007899461520&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 3](https://br.talent.com/view?id=2ad9d81f49d7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 4](https://br.jobrapido.com/jobpreview/135078202?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 4](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-backend-junior-wordpress-368015176?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 5](https://br.jooble.org/jdp/-1594683441658480675/Desenvolvedor-BackEnd-Junior-+-WordPress-Curitiba%2C-PR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 6](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-backend-junior-wordpress-368015176?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 6](https://br.jobrapido.com/jobpreview/135078202?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Vaga Desenvolvedor(a) Back-end Junior PCVagas PCD
-Curitiba, PR
-via Empregos Trabajo.org
-há 1 dia
+Desenvolvedor Back-End .Net Júnior
+.add
+Rio de Janeiro, RJ
+via Adzuna
+há 4 horas
 Tempo integral
 
-| [LINK 1](https://br.trabajo.org/emprego-1259-20220829-f2d8f05660acac7f8404b02227c0cb0b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.bebee.com/job/20220829-c9dc8a1836fa9187f5e159477419a872?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.jooble.org/jdp/-2539734907564294756/Vaga-Desenvolvedor(a)-Back+end-Junior-PCD-Curitiba%2C-PR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 1](https://www.adzuna.com.br/details/3444305913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.talent.com/view?id=cb7e96d9a5e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.hacendo.com/vaga/202203908/desenvolvedor-back-end-net-junior-rio-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Backend Junior
@@ -273,22 +263,8 @@ Tempo integral
 | [LINK 2](https://br.linkedin.com/jobs/view/desenvolvedor-backend-junior-at-taking-3228418184?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 3](https://www.empregos.com.br/vagas/desenvolvedor-backend-junior-barueri-sp/barueri/sp/8087515?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 4](https://br.talent.com/view?id=cc7603ea9873&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 5](https://br.bebee.com/job/20220827-b356668631569dc42a86196666f99061?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 6](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-backend-junior-367420798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor backend
-Portal de Compras Públicas
-Brasília, DF
-via BeBee
-há 6 dias
-Tempo integral
-
-| [LINK 1](https://br.bebee.com/job/20220825-feab310afa821c0f637fd047070f52ec?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.jooble.org/jdp/-2822628823919993476/Desenvolvedor-backend-+-.net-Bras%C3%ADlia%2C-DF?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-backend-net-368039583?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 4](https://br.jobeos.com/jobs/view/261907?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 5](https://br.hacendo.com/vaga/198903714/desenvolvedor-backend-net-brasilia/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 5](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-backend-junior-367420798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 6](https://br.bebee.com/job/20220827-b356668631569dc42a86196666f99061?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor de Bach End
@@ -300,15 +276,15 @@ Tempo integral
 | [LINK 1](https://www.infojobs.com.br/vaga-de-desenvolvedor-bach-end-junior-em-rio-grande-do-sul__8319679.aspx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor Backend Junior
-Taking
-Qualquer lugar
-via Glassdoor
-há 5 dias
-Trabalho de casa
-Prestador de serviços
+Vaga Desenvolvedor(a) Back-end Junior PCVagas PCD
+Curitiba, PR
+via Empregos Trabajo.org
+há 1 dia
+Tempo integral
 
-| [LINK 1](https://www.glassdoor.com.br/job-listing/desenvolvedor-backend-junior-taking-JV_KO0,28_KE29,35.htm?jl=1008096633953&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 1](https://br.trabajo.org/emprego-1259-20220829-f2d8f05660acac7f8404b02227c0cb0b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.jooble.org/jdp/-2539734907564294756/Vaga-Desenvolvedor(a)-Back+end-Junior-PCD-Curitiba%2C-PR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.bebee.com/job/20220829-c9dc8a1836fa9187f5e159477419a872?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Back End Jr
@@ -320,6 +296,42 @@ Trabalho de casa
 Tempo integral
 
 | [LINK 1](https://nerdin.com.br/vaga/52281?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor backend
+Portal de Compras Públicas
+Brasília, DF
+via BeBee
+há 6 dias
+Tempo integral
+
+| [LINK 1](https://br.bebee.com/job/20220825-feab310afa821c0f637fd047070f52ec?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-backend-net-368039583?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.jooble.org/jdp/-2822628823919993476/Desenvolvedor-backend-+-.net-Bras%C3%ADlia%2C-DF?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 4](https://br.hacendo.com/vaga/198903714/desenvolvedor-backend-net-brasilia/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 5](https://br.jobeos.com/jobs/view/261907?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Analista Desenvolvedor Back-end
+innolevels
+Rio de Janeiro, Rvia Linkedin
+há 3 horas
+Tempo integral
+
+| [LINK 1](https://br.linkedin.com/jobs/view/analista-desenvolvedor-back-end-at-innolevels-3245482674?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.jooble.org/jdp/1072182609743805987/Analista-Desenvolvedor-Back+end-Rio-de-Janeiro%2C-RJ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.hacendo.com/vaga/194524702/analista-desenvolvedor-back-end-rio-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor Backend Junior
+Taking
+Qualquer lugar
+via Glassdoor
+há 5 dias
+Trabalho de casa
+Prestador de serviços
+
+| [LINK 1](https://www.glassdoor.com.br/job-listing/desenvolvedor-backend-junior-taking-JV_KO0,28_KE29,35.htm?jl=1008096633953&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Back End Júnior
@@ -334,28 +346,6 @@ Tempo integral
 | [LINK 3](https://br.joobta.com/vaga/202776-desenvolvedor-back-end-junior/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Analista Desenvolvedor Back-end
-innolevels
-Rio de Janeiro, Rvia Linkedin
-há 3 horas
-Tempo integral
-
-| [LINK 1](https://br.linkedin.com/jobs/view/analista-desenvolvedor-back-end-at-innolevels-3245482674?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.jooble.org/jdp/1072182609743805987/Analista-Desenvolvedor-Back+end-Rio-de-Janeiro%2C-RJ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.hacendo.com/vaga/194524702/analista-desenvolvedor-back-end-rio-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor Back-End .Net Júnior
-.add
-Rio de Janeiro, Rvia Talent.com
-há 22 horas
-Tempo integral
-
-| [LINK 1](https://br.talent.com/view?id=cb7e96d9a5e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://www.adzuna.com.br/details/3444305913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.hacendo.com/vaga/202203908/desenvolvedor-back-end-net-junior-rio-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
 Desenvolvedor BackEnd Junior - WordPress
 GRUPO MASSCuritiba, PR
 via Catho
@@ -366,20 +356,21 @@ Tempo integral
 | [LINK 1](https://www.catho.com.br/vagas/desenvolvedor-backend-junior-wordpress/20954232/?origem_apply=busca-de-vagas&entrada_apply=direto&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 2](https://www.glassdoor.com.br/job-listing/desenvolvedor-backend-junior-wordpress-grupo-massa-JV_IC2387909_KO0,38_KE39,50.htm?jl=1007899461520&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 3](https://br.talent.com/view?id=2ad9d81f49d7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 4](https://br.jobrapido.com/jobpreview/135078202?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 4](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-backend-junior-wordpress-368015176?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 5](https://br.jooble.org/jdp/-1594683441658480675/Desenvolvedor-BackEnd-Junior-+-WordPress-Curitiba%2C-PR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 6](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-backend-junior-wordpress-368015176?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 6](https://br.jobrapido.com/jobpreview/135078202?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Vaga Desenvolvedor(a) Back-end Junior PCVagas PCD
-Curitiba, PR
-via Empregos Trabajo.org
-há 1 dia
+Desenvolvedor Back-End .Net Júnior
+.add
+Rio de Janeiro, RJ
+via Adzuna
+há 4 horas
 Tempo integral
 
-| [LINK 1](https://br.trabajo.org/emprego-1259-20220829-f2d8f05660acac7f8404b02227c0cb0b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.bebee.com/job/20220829-c9dc8a1836fa9187f5e159477419a872?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.jooble.org/jdp/-2539734907564294756/Vaga-Desenvolvedor(a)-Back+end-Junior-PCD-Curitiba%2C-PR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 1](https://www.adzuna.com.br/details/3444305913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.talent.com/view?id=cb7e96d9a5e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.hacendo.com/vaga/202203908/desenvolvedor-back-end-net-junior-rio-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Backend Junior
@@ -392,22 +383,8 @@ Tempo integral
 | [LINK 2](https://br.linkedin.com/jobs/view/desenvolvedor-backend-junior-at-taking-3228418184?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 3](https://www.empregos.com.br/vagas/desenvolvedor-backend-junior-barueri-sp/barueri/sp/8087515?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 4](https://br.talent.com/view?id=cc7603ea9873&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 5](https://br.bebee.com/job/20220827-b356668631569dc42a86196666f99061?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 6](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-backend-junior-367420798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
-Desenvolvedor backend
-Portal de Compras Públicas
-Brasília, DF
-via BeBee
-há 6 dias
-Tempo integral
-
-| [LINK 1](https://br.bebee.com/job/20220825-feab310afa821c0f637fd047070f52ec?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.jooble.org/jdp/-2822628823919993476/Desenvolvedor-backend-+-.net-Bras%C3%ADlia%2C-DF?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-backend-net-368039583?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 4](https://br.jobeos.com/jobs/view/261907?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 5](https://br.hacendo.com/vaga/198903714/desenvolvedor-backend-net-brasilia/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 5](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-backend-junior-367420798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 6](https://br.bebee.com/job/20220827-b356668631569dc42a86196666f99061?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor de Bach End
@@ -419,15 +396,15 @@ Tempo integral
 | [LINK 1](https://www.infojobs.com.br/vaga-de-desenvolvedor-bach-end-junior-em-rio-grande-do-sul__8319679.aspx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor Backend Junior
-Taking
-Qualquer lugar
-via Glassdoor
-há 5 dias
-Trabalho de casa
-Prestador de serviços
+Vaga Desenvolvedor(a) Back-end Junior PCVagas PCD
+Curitiba, PR
+via Empregos Trabajo.org
+há 1 dia
+Tempo integral
 
-| [LINK 1](https://www.glassdoor.com.br/job-listing/desenvolvedor-backend-junior-taking-JV_KO0,28_KE29,35.htm?jl=1008096633953&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 1](https://br.trabajo.org/emprego-1259-20220829-f2d8f05660acac7f8404b02227c0cb0b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.jooble.org/jdp/-2539734907564294756/Vaga-Desenvolvedor(a)-Back+end-Junior-PCD-Curitiba%2C-PR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.bebee.com/job/20220829-c9dc8a1836fa9187f5e159477419a872?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Back End Jr
@@ -441,16 +418,18 @@ Tempo integral
 | [LINK 1](https://nerdin.com.br/vaga/52281?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-Desenvolvedor Back End Júnior
-Farisco RH
-Joinville - Pirabeiraba, Joinville - SC
+Desenvolvedor backend
+Portal de Compras Públicas
+Brasília, DF
 via BeBee
-há 12 horas
+há 6 dias
 Tempo integral
 
-| [LINK 1](https://br.bebee.com/job/20220830-9629ad3ae655eb45cd523d21838a9209?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 2](https://br.adjoob.com/vaga/desenvolvedor-back-end-junior/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| [LINK 3](https://br.joobta.com/vaga/202776-desenvolvedor-back-end-junior/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 1](https://br.bebee.com/job/20220825-feab310afa821c0f637fd047070f52ec?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-backend-net-368039583?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.jooble.org/jdp/-2822628823919993476/Desenvolvedor-backend-+-.net-Bras%C3%ADlia%2C-DF?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 4](https://br.hacendo.com/vaga/198903714/desenvolvedor-backend-net-brasilia/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 5](https://br.jobeos.com/jobs/view/261907?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Analista Desenvolvedor Back-end
@@ -462,6 +441,29 @@ Tempo integral
 | [LINK 1](https://br.linkedin.com/jobs/view/analista-desenvolvedor-back-end-at-innolevels-3245482674?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 2](https://br.jooble.org/jdp/1072182609743805987/Analista-Desenvolvedor-Back+end-Rio-de-Janeiro%2C-RJ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 3](https://br.hacendo.com/vaga/194524702/analista-desenvolvedor-back-end-rio-janeiro/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor Backend Junior
+Taking
+Qualquer lugar
+via Glassdoor
+há 5 dias
+Trabalho de casa
+Prestador de serviços
+
+| [LINK 1](https://www.glassdoor.com.br/job-listing/desenvolvedor-backend-junior-taking-JV_KO0,28_KE29,35.htm?jl=1008096633953&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+Desenvolvedor Back End Júnior
+Farisco RH
+Joinville - Pirabeiraba, Joinville - SC
+via BeBee
+há 12 horas
+Tempo integral
+
+| [LINK 1](https://br.bebee.com/job/20220830-9629ad3ae655eb45cd523d21838a9209?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 2](https://br.adjoob.com/vaga/desenvolvedor-back-end-junior/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 3](https://br.joobta.com/vaga/202776-desenvolvedor-back-end-junior/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 # Vagas Full Stack Junior
@@ -538,6 +540,7 @@ Tempo integral
 | [LINK 3](https://br.bebee.com/job/20220830-f6f88c85e1bbac1d8772dd84f3dccfd7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 4](https://br.jobrapido.com/jobpreview/135057160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 5](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-full-stack-junior-ii-368038074?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 6](https://br.melga.com/job/2022-08-30_da52aea79c1ca0f44f87ddf1292718f9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Full Stack (PHP)| Júnior
@@ -646,6 +649,7 @@ Tempo integral
 | [LINK 3](https://br.bebee.com/job/20220830-f6f88c85e1bbac1d8772dd84f3dccfd7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 4](https://br.jobrapido.com/jobpreview/135057160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | [LINK 5](https://br.fidanto.com/empregos/vaga/detail/desenvolvedor-full-stack-junior-ii-368038074?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| [LINK 6](https://br.melga.com/job/2022-08-30_da52aea79c1ca0f44f87ddf1292718f9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 Desenvolvedor Full Stack (PHP)| Júnior
@@ -681,5 +685,5 @@ Tempo integral
 | [LINK 1](https://www.adzuna.com.br/details/3442647040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
-ultima atualização em Tue Aug 30 2022 18:40:00 GMT-0300 (Brasilia Standard Time)
+ultima atualização em Tue Aug 30 2022 18:42:00 GMT-0300 (Brasilia Standard Time)
 
